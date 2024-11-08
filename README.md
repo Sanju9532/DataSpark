@@ -13,5 +13,3 @@ Data Visualization with Power BI/Tableau:
 The insights derived from the analysis are presented using data visualization tools like Power BI . These tools help create interactive dashboards and reports that make it easy for stakeholders to understand complex data and make informed decisions.
 
 Skills Gained: Through this project, participants will enhance their skills in data cleaning and preprocessing, exploratory data analysis, Python programming  and data visualization using tools like Power BI. 
-
-Domain Focus: The project specifically targets the retail analytics sector of the electronics industry, which is characterized by rapid technological advancements and changing consumer behaviors. By leveraging data analytics, businesses can better understand their market, optimize inventory, and tailor marketing strategies to meet customer needs.
